@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Classic Cheeseburger",
+      "description": "Juicy beef patty with melted cheddar cheese, lettuce, and tomatoes.",
+      "image": "https://www.modernhoney.com/wp-content/uploads/2022/05/Classic-Double-Cheeseburger-Recipe-In-N-Out-1-scaled.jpg",
+      "price": 9.99,
+      "category": "Burgers"
+    },
+    {
+      "id": 2,
+      "name": "Margherita Pizza",
+      "description": "Traditional Margherita pizza with fresh mozzarella, tomatoes, and basil.",
+      "image": "https://www.foodandwine.com/thmb/3kzG4PWOAgZIIfZwMBLKqoTkaGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/margherita-pizza-with-argula-and-prosciutto-FT-RECIPE0721-04368ec288a84d2e997573aca0001d98.jpg",
+      "price": 12.99,
+      "category": "Pizza"
+    },
+    {
+      "id": 3,
+      "name": "Chicken Alfredo Pasta",
+      "description": "Creamy Alfredo sauce with grilled chicken over a bed of fettuccine pasta.",
+      "image": "https://www.modernhoney.com/wp-content/uploads/2018/08/Fettuccine-Alfredo-Recipe-1.jpg",
+      "price": 15.99,
+      "category": "Pasta"
+    },
+    {
+      "id": 4,
+      "name": "Vegetarian Sushi Roll",
+      "description": "Assorted vegetables rolled in seasoned rice and nori, served with soy sauce.",
+      "image": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/01/a0001909/img/basic/a0001909_main.jpg",
+      "price": 8.99,
+      "category": "Sushi"
+    },
+    {
+      "id": 5,
+      "name": "Mango Tango Smoothie",
+      "description": "Refreshing smoothie with mango, banana, and a hint of coconut.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRiUo6KVs0Jha-iEWLAJ-GIq4Lk4Z0Jeau7w&usqp=CAU",
+      "price": 4.99,
+      "category": "Beverages"
+    },
+    {
+      "id": 6,
+      "name": "Chocolate Fudge Cake",
+      "description": "Decadent chocolate cake layered with rich fudge icing.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHt4yzQns9IrVeZXfgJf-dOC7ALAwBmZ0UtA&usqp=CAU",
+      "price": 7.99,
+      "category": "Desserts"
+    },
+    {
+      "id": 7,
+      "name": "Grilled Salmon",
+      "description": "Freshly grilled salmon fillet with lemon and herbs.",
+      "image": "https://static01.nyt.com/images/2023/06/02/multimedia/02GRILL-BASICSrex5-salmon-vjtl/07GRILL-BASICSrex5-salmon-vjtl-superJumbo.jpg",
+      "price": 18.99,
+      "category": "Seafood"
+    },
+    {
+      "id": 8,
+      "name": "Caprese Salad",
+      "description": "Tomatoes, fresh mozzarella, and basil drizzled with balsamic glaze.",
+      "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2Farchive%2F3b432b41ce04c96a08d77befa42b9881a587a436",
+      "price": 10.99,
+      "category": "Salads"
+    },
+    {
+      "id": 9,
+      "name": "Vegan Buddha Bowl",
+      "description": "A colorful bowl with quinoa, roasted vegetables, and tahini dressing.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi4DYU_nB9TyXzZ4cMgV45ZBDAtQ4aB3HK_w&usqp=CAU",
+      "price": 13.99,
+      "category": "Vegan"
+    },
+    {
+      "id": 10,
+      "name": "Chicken Tikka Masala",
+      "description": "Tender chicken pieces in a rich and creamy tomato-based sauce.",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/3/0/FNK_the-best-chicken-tikka-masala_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1567523604572.jpeg",
+      "price": 16.99,
+      "category": "Indian"
+    },
+    {
+      "id": 11,
+      "name": "Avocado Toast",
+      "description": "Sliced avocado on toasted whole-grain bread with a sprinkle of sea salt.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqdfDz8zlKoHkQmGWU3ZvOIxikaCSrg4kMA&usqp=CAU",
+      "price": 6.99,
+      "category": "Breakfast"
+    },
+    {
+      "id": 12,
+      "name": "BBQ Pulled Pork Sandwich",
+      "description": "Slow-cooked pulled pork in smoky BBQ sauce on a soft bun.",
+      "image": "https://i2.wp.com/pressurecookingtoday.com/wp-content/uploads/2019/06/Easy_Instant_Pot_Pulled_Pork_Pressure_Cooking_Today-1436-075x-800x534.jpg",
+      "price": 14.99,
+      "category": "Sandwiches"
+    },
+    {
+      "id": 13,
+      "name": "Shrimp Scampi",
+      "description": "Tender shrimp sautéed in garlic butter, white wine, and lemon juice.",
+      "image": "https://www.allrecipes.com/thmb/LpLK0Psum2fAUWKp2b9Qs3Ep2f0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/268669creamy-shrimp-scampi-with-half-and-half-humblepieliving-003-4x3-fbceb57a9b12481289f2f63229518701.jpg",
+      "price": 17.99,
+      "category": "Seafood"
+    },
+    {
+      "id": 14,
+      "name": "Berry Blast Smoothie Bowl",
+      "description": "A vibrant bowl with blended berries, granola, and coconut flakes.",
+      "image": "https://nkechiajaeroh.com/wp-content/uploads/2019/05/Berry_Blast_SmoothieBowl2-800x600.jpg",
+      "price": 9.99,
+      "category": "Beverages"
+    },
+    {
+      "id": 15,
+      "name": "Spinach and Feta Stuffed Chicken Breast",
+      "description": "Chicken breast stuffed with spinach and feta, baked to perfection.",
+      "image": "https://www.fivevalleysstroud.co.uk/images/recipes/large/8.png",
+      "price": 15.99,
+      "category": "Chicken"
+    },
+    {
+      "id": 16,
+      "name": "Vegetable Curry",
+      "description": "Assorted vegetables in a flavorful curry sauce, served with basmati rice.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfdHv8dtkMGXUOdHH2CNquQ_14q6amSg2q4A&usqp=CAU",
+      "price": 12.99,
+      "category": "Vegetarian"
+    },
+    {
+      "id": 17,
+      "name": "Crispy Tofu Stir-Fry",
+      "description": "Crispy tofu tossed with colorful vegetables in a savory stir-fry sauce.",
+      "image": "https://thepeskyvegan.com/wp-content/uploads/2020/01/tofu-stir-fry-close-up.jpg",
+      "price": 11.99,
+      "category": "Vegetarian"
+    },
+    {
+      "id": 18,
+      "name": "Hawaiian Luau Pizza",
+      "description": "Ham, pineapple, and red onion on a pizza with a tangy BBQ sauce base.",
+      "image": "https://maryspizzashack.com/wp-content/uploads/MPS_Hawaiian-Caliente_E-Commerce-1024x683.jpg",
+      "price": 13.99,
+      "category": "Pizza"
+    },
+    {
+      "id": 19,
+      "name": "Chocolate Chip Cookie Dough Ice Cream",
+      "description": "Vanilla ice cream with chunks of chocolate chip cookie dough.",
+      "image": "https://glutenfreebaking.com/wp-content/uploads/2015/06/Chocolate-Chip-Cookie-Dough-Ice-Cream.jpg",
+      "price": 8.99,
+      "category": "Desserts"
+    },
+    {
+      "id": 20,
+      "name": "Beef and Broccoli Stir-Fry",
+      "description": "Sliced beef and broccoli in a savory soy-based stir-fry sauce.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoo_P32vZulHxpsdriOw6nBP4pxKnhG1Ii7A&usqp=CAU",
+      "price": 14.99,
+      "category": "Beef"
+    }
+  ]
+}
