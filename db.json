@@ -76,7 +76,7 @@
       "id": 5,
       "name": "Mango Tango Smoothie",
       "description": "Refreshing smoothie with mango, banana, and a hint of coconut.",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRiUo6KVs0Jha-iEWLAJ-GIq4Lk4Z0Jeau7w&usqp=CAU",
+      "image": "https://www.innit.com/public/recipes/images/1033161--1299018692-en-US-0_s1000.jpg",
       "price": 4.99,
       "category": "Beverages"
     },
@@ -84,7 +84,7 @@
       "id": 6,
       "name": "Chocolate Fudge Cake",
       "description": "Decadent chocolate cake layered with rich fudge icing.",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHt4yzQns9IrVeZXfgJf-dOC7ALAwBmZ0UtA&usqp=CAU",
+      "image": "https://bakedbyclo.com/wp-content/uploads/2021/02/fudge-cake-thumbnail-480x270.jpg",
       "price": 7.99,
       "category": "Desserts"
     },
