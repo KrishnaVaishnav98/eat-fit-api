@@ -44,7 +44,7 @@
       "id": 1,
       "name": "Quinoa Bowl",
       "description": "A nutritious bowl featuring quinoa, mixed vegetables, avocado, and a light lemon-tahini dressing.",
-      "image": "https://goodcheapeats.com/wp-content/uploads/2015/09/Quinoa-Chicken-Bowl-2-480x270.jpg",
+      "image": "https://www.foodbymaria.com/wp-content/uploads/2023/01/Quinoa-Bowl-4-scaled.jpg",
       "price": 12.99,
       "category": "Bowls"
     },
@@ -76,17 +76,9 @@
       "id": 5,
       "name": "Mango Tango Smoothie",
       "description": "Refreshing smoothie with mango, banana, and a hint of coconut.",
-      "image": "https://www.innit.com/public/recipes/images/1033161--1299018692-en-US-0_s1000.jpg",
+      "image": "https://www.herbalife.com/dmassets/global-reusable-assets/images/ri_mango_protein_shake_228254188.jpeg",
       "price": 4.99,
       "category": "Beverages"
-    },
-    {
-      "id": 6,
-      "name": "Chocolate Fudge Cake",
-      "description": "Decadent chocolate cake layered with rich fudge icing.",
-      "image": "https://bakedbyclo.com/wp-content/uploads/2021/02/fudge-cake-thumbnail-480x270.jpg",
-      "price": 7.99,
-      "category": "Desserts"
     },
     {
       "id": 7,
@@ -196,7 +188,7 @@
       "id": 30,
       "name": "Fruit Salad Bowl",
       "description": "A colorful bowl filled with a variety of fresh fruits, perfect for a light and healthy snack.",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/pasta-salad-horizontal-jpg-1522265695.jpg?crop=1xw:0.8435812837432514xh;center,top",
+      "image": "https://www.theslowroasteditalian.com/wp-content/uploads/2023/06/rainbow-fruit-salad-bowl.webp",
       "price": 9.49,
       "category": "Bowls"
     }
